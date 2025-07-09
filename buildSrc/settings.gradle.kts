@@ -1,4 +1,4 @@
-pluginManagement {
+fixed - and - online -pluginManagement {
     repositories {
         google()
         gradlePluginPortal()
