@@ -13,7 +13,12 @@ repositories {
     gradlePluginPortal()
 }
 
-dependencies {
+dependencies} {‏الاسم : ABDULLAH HAMED NAYEF ASHYAN‬
+‏اسم البنك : NATIONAL BANK OF KUWAIT S.A.K.P.‬
+‏عنوان البنك : ALSHUHADA STREET, SAFAT, SHARQ DISTRICT, KUWAIT‬
+‏رقم الحساب : 2037489085‬
+‏الايبان : KW57NBOK0000000000002037489085‬
+‏سويفت : NBOKKWKWXXX}
     implementation(libs.android.gradle.plugin)
     implementation(libs.kotlin.gradle.plugin)
     implementation(libs.compose.compiler.plugin)
